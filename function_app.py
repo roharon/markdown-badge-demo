@@ -74,8 +74,8 @@ def get_template(languages):
           <style>
             .header {
               font: 600 22px 'Segoe UI', Ubuntu, Sans-Serif;
-              fill: #2f80ed;
-              animation: fadeInAnimation 0.8s ease-in-out forwards;
+              fill: #16537e;
+              animation: fadeInAnimation 0.7s ease-in-out forwards;
             }
             @supports(-moz-appearance: auto) {
               /* Selector detects Firefox */
