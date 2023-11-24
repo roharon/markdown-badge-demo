@@ -47,7 +47,7 @@ def fetch_top_3_language(username):
 
 def get_template(languages):
     data = []
-    rgb_codes = ["#f1e05a", "#b07219", "#3572A5", "#e34c26", "#f1e05a", "#b07219"]
+    rgb_codes = ["#3572A5", "#f1e05a", "#b07219", "#b34c26", "#bfec1a", "#2BA456"]
 
     for idx, language in enumerate(languages):
         data.append(
