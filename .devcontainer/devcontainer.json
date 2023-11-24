@@ -4,7 +4,7 @@
     "features": {
         "ghcr.io/devcontainers/features/azure-cli:1": {}
     },
-    "postCreateCommand": "pip3 install --user -r requirements.txt && az extension add --name functionapp",
+    "postCreateCommand": "./.devcontainer/postCreateCommand.sh",
     "customizations": {
         "vscode": {
             "extensions": [
