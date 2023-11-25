@@ -144,7 +144,7 @@ def get_template(languages):
           <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="375" fill="#fffefe" stroke-opacity="1"/>
         <g data-testid="card-title" transform="translate(25, 35)">
           <g transform="translate(0, 0)">
-            <text x="0" y="0" class="header" data-testid="header">Most Used Languages</text>
+            <text x="0" y="0" class="header" data-testid="header">가장 많이 사용한 언어</text>
           </g>
         </g>
 
