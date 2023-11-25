@@ -9,7 +9,6 @@
         "vscode": {
             "extensions": [
                 "ms-python.python",
-                "ms-python.vscode-pylance",
                 "ms-azuretools.vscode-azurefunctions",
                 "GitHub.copilot",
                 "ms-toolsai.jupyter",
